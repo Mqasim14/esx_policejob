@@ -4,7 +4,7 @@ esx_policejob with protected events
 ## Annoyed of modders handcuffing or sending fake police messages?
  Try Out this script, it will ban the player via EasyAdmin
 
-- All Credits Go To https://github.com/esx-framework/
+- Original Script Credits Go To https://github.com/esx-framework/
 
 ## https://discord.gg/jsARZZQ For More Scripts Like This
 
